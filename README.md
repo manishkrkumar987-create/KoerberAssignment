@@ -1,7 +1,7 @@
 # Körber InventoryService & Order Management System
 
 ## 📦 Service Overview
-This project is a microservice-based solution for managing e-commerce stock and orders. It is built using Java 17 and Spring Boot, with a focus on the First Expired, First Out (FEFO) principle.
+This project is a microservice-based solution for managing stock and orders. It is built using Java 17 and Spring Boot, with a focus on the First Expired, First Out (FEFO) principle.
 
 # 🚀 Key Features
 
